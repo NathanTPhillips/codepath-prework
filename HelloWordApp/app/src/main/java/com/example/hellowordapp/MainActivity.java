@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
             // change the text color of the label
-                ((TextView) findViewById(R.id.text1)).setTextColor(getResources().getColor(R.color.gray));
+                ((TextView) findViewById(R.id.text1)).setTextColor(getResources().getColor(R.color.blue_100));
 
             }
         });
