@@ -4,7 +4,7 @@
 A simple Hello World app for Codepath prework. Clicking the button changes the color of the text.
 
 ### App Walk-though
-<img src=https://recordit.co/RiwfeJKrmc width=200><br>
+<img src=https://recordit.co/RiwfeJKrmc.gif width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
