@@ -7,9 +7,9 @@ A simple Hello World app for Codepath prework. Clicking the button changes the c
 <img src=https://recordit.co/RiwfeJKrmc.gif width=200><br>
 
 ### Required User Stories
-- [X] 1. User sees custom text in a label - Hello from {name}!
-- [X] 2. User see's custom background color.
-- [X] 3. User can tap a button to change the text color of the label.
+- [x]  User sees custom text in a label - Hello from {name}!
+- [x] 2. User see's custom background color.
+- [x] 3. User can tap a button to change the text color of the label.
 
 ### Optional User Stories
 - [ ] 1. User can tap a button to change the color of the background view.
